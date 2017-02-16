@@ -21,3 +21,15 @@ C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLif
 C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.exe
 C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.pdb
 C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\bin\Debug\TheGameOfLife.exe.manifest
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\bin\Debug\TheGameOfLife.application
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\bin\Debug\TheGameOfLife.exe
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\bin\Debug\TheGameOfLife.pdb
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\obj\x86\Debug\TheGameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\obj\x86\Debug\TheGameOfLife.Form1.resources
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\obj\x86\Debug\TheGameOfLife.Properties.Resources.resources
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\obj\x86\Debug\TheGameOfLife.csproj.GenerateResource.Cache
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\obj\x86\Debug\TheGameOfLife.exe.manifest
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\obj\x86\Debug\TheGameOfLife.application
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\obj\x86\Debug\TheGameOfLife.exe
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\The-Game-Of-Life\TheGameOfLife\obj\x86\Debug\TheGameOfLife.pdb

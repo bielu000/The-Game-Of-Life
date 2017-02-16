@@ -132,15 +132,15 @@
             this.dataGridView1.RowTemplate.ReadOnly = true;
             this.dataGridView1.ScrollBars = System.Windows.Forms.ScrollBars.None;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(690, 656);
+            this.dataGridView1.Size = new System.Drawing.Size(572, 585);
             this.dataGridView1.TabIndex = 8;
             // 
             // panel1
             // 
             this.panel1.Controls.Add(this.dataGridView1);
-            this.panel1.Location = new System.Drawing.Point(261, 3);
+            this.panel1.Location = new System.Drawing.Point(322, 12);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(690, 656);
+            this.panel1.Size = new System.Drawing.Size(572, 585);
             this.panel1.TabIndex = 9;
             // 
             // label1

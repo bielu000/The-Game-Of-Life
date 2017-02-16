@@ -28,7 +28,7 @@ namespace TheGameOfLife
 
             square = new int[squareLength, squareLength];
 
-            int tmp_occ = 1;
+            int tmp_occ = 0;
 
             while (tmp_occ < occupancy)
             {
