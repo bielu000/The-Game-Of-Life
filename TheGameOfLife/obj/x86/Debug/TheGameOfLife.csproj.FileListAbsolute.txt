@@ -1,0 +1,23 @@
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\obj\x86\Debug\TheGameOfLife.Form1.resources
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\obj\x86\Debug\TheGameOfLife.Properties.Resources.resources
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\obj\x86\Debug\TheGameOfLife.csproj.GenerateResource.Cache
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\bin\Debug\TheGameOfLife.exe
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\bin\Debug\TheGameOfLife.pdb
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\obj\x86\Debug\TheGameOfLife.exe
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\obj\x86\Debug\TheGameOfLife.pdb
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\bin\Debug\TheGameOfLife.exe.manifest
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\bin\Debug\TheGameOfLife.application
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\obj\x86\Debug\TheGameOfLife.exe.manifest
+C:\Users\Patryk\AppData\Local\Temporary Projects\TheGameOfLife\obj\x86\Debug\TheGameOfLife.application
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\bin\Debug\TheGameOfLife.exe.manifest
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\bin\Debug\TheGameOfLife.application
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\bin\Debug\TheGameOfLife.exe
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\bin\Debug\TheGameOfLife.pdb
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.Form1.resources
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.Properties.Resources.resources
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.csproj.GenerateResource.Cache
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.exe.manifest
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.application
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.exe
+C:\Users\Patryk\documents\visual studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.pdb
+C:\Users\Patryk\Documents\Visual Studio 2010\Projects\TheGameOfLife\TheGameOfLife\obj\x86\Debug\TheGameOfLife.csprojResolveAssemblyReference.cache
